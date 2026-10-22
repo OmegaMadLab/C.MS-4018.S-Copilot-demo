@@ -1,0 +1,81 @@
+Week_start,ISO_week,Warehouse,Category,Orders,Order_lines,OTIF_pct,Fill_rate_pct,Forecast_accuracy_pct,Avg_lead_time_days,Stockout_events
+2026-08-03,32,DC Americas (Dallas),Home Comfort,453,2718,95.7,99.2,85.7,2.1,3
+2026-08-03,32,DC Americas (Dallas),Office Solutions,504,2016,95.3,99.3,81.5,2.4,0
+2026-08-03,32,DC Americas (Dallas),Personal Care,851,2553,95.9,99.4,81.5,3.0,1
+2026-08-03,32,DC Americas (Dallas),Accessories,710,2840,96.3,99.4,82.8,2.7,2
+2026-08-03,32,DC Europe (Rotterdam),Home Comfort,872,4360,90.1,95.6,75.6,4.3,9
+2026-08-03,32,DC Europe (Rotterdam),Office Solutions,621,3726,95.4,99.2,85.2,2.2,0
+2026-08-03,32,DC Europe (Rotterdam),Personal Care,389,1167,95.7,98.2,81.7,2.1,1
+2026-08-03,32,DC Europe (Rotterdam),Accessories,634,2536,96.4,99.0,84.1,2.2,0
+2026-08-03,32,DC Asia-Pacific (Singapore),Home Comfort,441,2205,96.2,99.0,82.0,3.0,0
+2026-08-03,32,DC Asia-Pacific (Singapore),Office Solutions,704,3520,96.6,99.0,84.7,2.1,1
+2026-08-03,32,DC Asia-Pacific (Singapore),Personal Care,517,2585,97.1,98.6,81.2,2.7,2
+2026-08-03,32,DC Asia-Pacific (Singapore),Accessories,574,2296,97.3,98.7,82.6,2.3,3
+2026-08-03,32,DC Latin America (Sao Paulo),Home Comfort,450,1800,96.3,98.5,82.8,2.9,1
+2026-08-03,32,DC Latin America (Sao Paulo),Office Solutions,569,1707,96.1,99.1,83.2,2.5,3
+2026-08-03,32,DC Latin America (Sao Paulo),Personal Care,776,3104,96.5,98.5,83.7,2.3,0
+2026-08-03,32,DC Latin America (Sao Paulo),Accessories,799,3995,96.3,98.7,83.3,2.6,2
+2026-08-10,33,DC Americas (Dallas),Home Comfort,562,1686,95.1,98.7,80.4,2.8,1
+2026-08-10,33,DC Americas (Dallas),Office Solutions,881,4405,95.4,98.7,80.6,2.6,3
+2026-08-10,33,DC Americas (Dallas),Personal Care,883,2649,94.9,98.3,84.3,2.0,1
+2026-08-10,33,DC Americas (Dallas),Accessories,757,2271,96.1,98.9,82.2,2.7,3
+2026-08-10,33,DC Europe (Rotterdam),Home Comfort,459,1836,89.8,95.5,68.9,4.1,10
+2026-08-10,33,DC Europe (Rotterdam),Office Solutions,577,2308,94.7,98.1,84.4,2.5,3
+2026-08-10,33,DC Europe (Rotterdam),Personal Care,746,4476,96.4,99.3,83.4,2.6,0
+2026-08-10,33,DC Europe (Rotterdam),Accessories,896,4480,96.8,98.6,80.6,2.8,3
+2026-08-10,33,DC Asia-Pacific (Singapore),Home Comfort,712,3560,96.6,98.7,83.6,2.9,2
+2026-08-10,33,DC Asia-Pacific (Singapore),Office Solutions,599,3594,96.0,98.9,85.0,2.3,1
+2026-08-10,33,DC Asia-Pacific (Singapore),Personal Care,786,2358,96.9,99.3,81.5,3.0,3
+2026-08-10,33,DC Asia-Pacific (Singapore),Accessories,386,1930,96.8,99.4,83.6,2.5,2
+2026-08-10,33,DC Latin America (Sao Paulo),Home Comfort,538,1614,97.6,98.3,81.9,2.8,2
+2026-08-10,33,DC Latin America (Sao Paulo),Office Solutions,618,3090,94.9,98.5,80.8,2.4,1
+2026-08-10,33,DC Latin America (Sao Paulo),Personal Care,712,4272,97.1,98.1,82.4,2.9,0
+2026-08-10,33,DC Latin America (Sao Paulo),Accessories,687,2061,95.3,99.2,84.1,2.6,0
+2026-08-17,34,DC Americas (Dallas),Home Comfort,736,4416,96.8,98.8,80.5,2.1,2
+2026-08-17,34,DC Americas (Dallas),Office Solutions,771,2313,96.0,99.2,85.2,2.2,0
+2026-08-17,34,DC Americas (Dallas),Personal Care,536,1608,95.7,98.1,83.2,2.1,1
+2026-08-17,34,DC Americas (Dallas),Accessories,607,3642,96.7,99.4,85.8,2.8,0
+2026-08-17,34,DC Europe (Rotterdam),Home Comfort,788,3940,87.4,95.4,68.1,4.3,9
+2026-08-17,34,DC Europe (Rotterdam),Office Solutions,872,3488,92.2,98.7,84.6,2.1,3
+2026-08-17,34,DC Europe (Rotterdam),Personal Care,628,1884,96.2,98.9,81.2,2.6,1
+2026-08-17,34,DC Europe (Rotterdam),Accessories,803,4818,95.5,98.6,84.1,2.6,0
+2026-08-17,34,DC Asia-Pacific (Singapore),Home Comfort,553,2765,95.8,98.3,82.1,2.7,2
+2026-08-17,34,DC Asia-Pacific (Singapore),Office Solutions,619,2476,96.5,99.4,82.7,2.1,0
+2026-08-17,34,DC Asia-Pacific (Singapore),Personal Care,628,2512,96.7,98.2,84.4,2.1,0
+2026-08-17,34,DC Asia-Pacific (Singapore),Accessories,692,4152,97.2,99.1,80.1,2.7,0
+2026-08-17,34,DC Latin America (Sao Paulo),Home Comfort,874,3496,96.1,98.5,84.4,2.2,2
+2026-08-17,34,DC Latin America (Sao Paulo),Office Solutions,641,2564,96.7,98.9,82.3,2.9,0
+2026-08-17,34,DC Latin America (Sao Paulo),Personal Care,388,1164,95.0,98.3,84.2,2.3,3
+2026-08-17,34,DC Latin America (Sao Paulo),Accessories,399,1995,95.9,98.4,85.1,2.7,0
+2026-08-24,35,DC Americas (Dallas),Home Comfort,703,4218,97.2,98.9,81.4,2.4,0
+2026-08-24,35,DC Americas (Dallas),Office Solutions,402,1206,97.2,98.7,81.1,2.5,3
+2026-08-24,35,DC Americas (Dallas),Personal Care,398,1990,95.5,98.7,82.0,2.4,1
+2026-08-24,35,DC Americas (Dallas),Accessories,443,2215,96.7,98.5,81.8,3.0,2
+2026-08-24,35,DC Europe (Rotterdam),Home Comfort,610,2440,88.3,95.7,70.9,4.5,12
+2026-08-24,35,DC Europe (Rotterdam),Office Solutions,807,3228,93.0,98.5,80.8,2.7,3
+2026-08-24,35,DC Europe (Rotterdam),Personal Care,514,2056,96.4,98.6,81.9,2.6,3
+2026-08-24,35,DC Europe (Rotterdam),Accessories,696,2784,96.6,98.8,84.1,2.2,1
+2026-08-24,35,DC Asia-Pacific (Singapore),Home Comfort,705,2115,96.0,99.3,84.6,2.7,1
+2026-08-24,35,DC Asia-Pacific (Singapore),Office Solutions,410,2050,96.4,99.3,80.7,2.3,1
+2026-08-24,35,DC Asia-Pacific (Singapore),Personal Care,535,2140,97.3,98.6,82.5,2.4,2
+2026-08-24,35,DC Asia-Pacific (Singapore),Accessories,616,2464,95.1,98.3,84.6,2.6,2
+2026-08-24,35,DC Latin America (Sao Paulo),Home Comfort,894,5364,95.4,98.0,80.5,2.8,1
+2026-08-24,35,DC Latin America (Sao Paulo),Office Solutions,547,2188,96.8,98.5,85.1,2.5,1
+2026-08-24,35,DC Latin America (Sao Paulo),Personal Care,607,2428,95.4,98.6,85.8,2.9,3
+2026-08-24,35,DC Latin America (Sao Paulo),Accessories,712,4272,96.9,98.1,85.6,3.0,3
+2026-08-31,36,DC Americas (Dallas),Home Comfort,700,4200,97.3,98.6,84.7,2.6,3
+2026-08-31,36,DC Americas (Dallas),Office Solutions,491,2946,96.5,99.0,83.6,2.5,0
+2026-08-31,36,DC Americas (Dallas),Personal Care,420,2520,96.1,99.2,85.3,2.2,3
+2026-08-31,36,DC Americas (Dallas),Accessories,691,3455,96.2,98.9,80.3,2.3,3
+2026-08-31,36,DC Europe (Rotterdam),Home Comfort,854,5124,87.1,95.1,69.7,4.6,11
+2026-08-31,36,DC Europe (Rotterdam),Office Solutions,782,4692,92.3,98.7,81.1,2.6,3
+2026-08-31,36,DC Europe (Rotterdam),Personal Care,845,2535,95.7,98.0,82.7,2.9,1
+2026-08-31,36,DC Europe (Rotterdam),Accessories,473,1419,95.5,99.0,85.4,2.8,0
+2026-08-31,36,DC Asia-Pacific (Singapore),Home Comfort,767,4602,96.8,98.9,80.5,2.7,1
+2026-08-31,36,DC Asia-Pacific (Singapore),Office Solutions,546,2184,94.9,98.2,82.0,2.9,1
+2026-08-31,36,DC Asia-Pacific (Singapore),Personal Care,675,2700,95.3,99.0,82.5,2.3,3
+2026-08-31,36,DC Asia-Pacific (Singapore),Accessories,392,2352,95.1,98.2,81.2,2.6,2
+2026-08-31,36,DC Latin America (Sao Paulo),Home Comfort,623,2492,96.2,98.7,84.8,2.6,3
+2026-08-31,36,DC Latin America (Sao Paulo),Office Solutions,630,3150,96.4,98.7,82.5,2.1,0
+2026-08-31,36,DC Latin America (Sao Paulo),Personal Care,436,2180,96.5,98.8,85.0,2.0,1
+2026-08-31,36,DC Latin America (Sao Paulo),Accessories,719,2157,94.9,99.2,84.0,2.8,2
