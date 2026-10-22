@@ -43,7 +43,7 @@ Copilot Demos/
 
 ## 2. Seed Session 2 (60 min)
 
-Follow [session-2-communicate/seeding/SEEDING-KIT.md](session-2-communicate/seeding/SEEDING-KIT.md). It covers 3 emails, 2 low-priority emails, 6 chat messages and a recorded meeting you record **on your own** (no second person or device needed).
+Follow [session-2-communicate/seeding/SEEDING-KIT.md](session-2-communicate/seeding/SEEDING-KIT.md). It covers 3 emails, 2 low-priority emails, 6 chat messages and a recorded meeting. The meeting is booked by **Lynne**, the only user with a Copilot licence, and the transcript is still produced when the other people in the meeting have no licence.
 
 ## 3. Pre-run the agents and pin the results (15 min, mostly waiting) – 90-minute versions only
 

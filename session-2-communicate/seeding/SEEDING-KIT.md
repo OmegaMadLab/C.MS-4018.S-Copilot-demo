@@ -6,7 +6,7 @@ This kit creates the Microsoft 365 content that Copilot reads during Session 2: 
 |------|-----------|--------------------------|
 | Project Lead (**presenter**) | Lynne Robbins | **Yes** |
 | Executive Sponsor (VP Customer Operations) | Alex Wilber | No |
-| IT & Data Migration Lead (organises the weekly sync) | Megan Bowen | No (needs Teams with transcription) |
+| IT & Data Migration Lead (chairs the weekly sync) | Megan Bowen | No |
 | Country Lead Brazil | Miriam Graham | No |
 | Training Lead (joins next week) | Isaiah Langer | No |
 
@@ -19,6 +19,8 @@ This kit creates the Microsoft 365 content that Copilot reads during Session 2: 
 ---
 
 ## A. Email thread "Project Zava – Brazil go-live" (15 min)
+
+Send the 3 emails below, each from the user shown. The result must be **one thread of 3 emails**: Miriam's original, then Megan's *Reply all*, then Alex's *Reply all*.
 
 ### A1 – Miriam Graham → Lynne Robbins, CC Megan Bowen
 **Subject:**
@@ -129,21 +131,25 @@ Good news: the telephony integration test passed yesterday. ✅
 
 ---
 
-## D. Meeting "Project Zava weekly sync", recorded by you alone (25 min)
+## D. Meeting "Project Zava weekly sync" (25 min)
 
-You don't need other people or a second device. You read every part yourself, **saying the speaker's name before each line**. Copilot uses the names to attribute the content in the recap.
+> **About licences:** only the user with the Copilot licence (**Lynne**) needs to book the meeting. The other people in the meeting don't need a Copilot licence: the meeting is transcribed anyway, and Lynne gets the transcript and the Copilot recap afterwards.
 
-1. As **Megan Bowen**, schedule a Teams meeting now (or in 5 minutes):
+Lynne books the meeting with Facilitator on, and the other users read the script. Lynne doesn't join, which keeps the "meeting I missed" story intact.
+
+1. As **Lynne Robbins** (the Copilot-licensed user), schedule a Teams meeting now (or in 5 minutes):
    - **Title:**
      ```text
      Project Zava weekly sync
      ```
-   - **Attendees:** Lynne Robbins, Miriam Graham, Alex Wilber
-   - Leave the meeting options at their defaults. Recording and transcription must be allowed.
-2. **Lynne doesn't join.** That's the story: "the meeting I missed".
-3. As **Megan**, join, then **Start recording and transcription** (*More > Record and transcribe*).
-4. Read the script below **out loud**, slowly, including the names. It takes about 4–5 minutes.
-5. Stop the recording and leave the meeting. The recap and transcript appear for invitees after a few minutes, sometimes up to an hour.
+   - **Attendees:** Megan Bowen, Miriam Graham, Alex Wilber
+2. In the meeting options, **turn on Facilitator** (the AI notes/Facilitator setting in the Copilot section of the meeting options). Facilitator takes notes and starts the transcription when the meeting begins, even though the people in the meeting have no Copilot licence.
+3. **Lynne doesn't join.** That's the story: "the meeting I missed".
+4. Join as **Megan**, **Miriam** and **Alex**, each in their own InPrivate window or browser profile (or one on a phone). Mute the windows that aren't speaking to avoid echo. If the transcript hasn't started, start it from *More > Record and transcribe*.
+5. Read the script below out loud. Each person reads their own lines from their own window. It takes about 4–5 minutes. Keep saying the speaker name at the start of each line, so the recap stays clear even if attribution goes wrong.
+6. Leave the meeting. The recap, the Facilitator notes and the transcript appear for Lynne after a few minutes, sometimes up to an hour.
+
+> 💡 You can also do it from a single window: join only as **Megan**, read every line yourself and **say the speaker's name before each line**. Copilot uses the spoken names to attribute the content.
 
 ### Script (read everything, including the speaker names)
 ```text
